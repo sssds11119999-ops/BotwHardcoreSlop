@@ -1,0 +1,16 @@
+# Python virtual environment & bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Built mod outputs & archives (distribute via GitHub Releases instead)
+BotW_HardcoreSurvival/
+HardcoreSurvival/
+*.zip
+*.bnp
+
+# Dumped Nintendo game files
+content/
+aoc/
+botw_merged/
