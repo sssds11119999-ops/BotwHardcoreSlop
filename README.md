@@ -27,3 +27,8 @@ python build_hardcore_survival.py \
   --content "/path/to/merged_v1.5.0/content" \
   --aoc "/path/to/dlc/aoc" \
   --output "./BotW_HardcoreSurvival"
+
+## Credits
+* **Sai** — Mod development, implementation, and build automation.
+* **(R)** (Discord) — Original concept and hardcore survival idea.
+* **`oead`** — Nintendo archive and binary manipulation library.
